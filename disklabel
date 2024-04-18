@@ -1,0 +1,11 @@
+/		4G
+swap		16G
+/tmp		4G
+/usr		16G
+/usr/X11R6	1G
+/usr/local	40G
+/usr/obj	10G
+/usr/src	10G
+/var		40G
+/release	10G
+/home		*

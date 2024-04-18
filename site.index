@@ -1,0 +1,13 @@
+/etc/ssh/ssh_host_ecdsa_key.pub
+/etc/ssh/ssh_host_rsa_key
+/etc/ssh/ssh_host_rsa_key.pub
+/etc/ssh/ssh_host_ecdsa_key
+/etc/ssh/ssh_host_ed25519_key
+/etc/ssh/ssh_host_ed25519_key.pub
+/etc/hostname.iwm0
+/etc/hostname.urtwn0
+/etc/hostname.wg0
+/root/site.index
+/root/disklabel
+/root/Makefile
+/root/.ssh/authorized_keys
